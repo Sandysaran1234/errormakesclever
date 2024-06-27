@@ -1,0 +1,59 @@
+body{
+    background-color: black;
+    color: white;
+}
+h1{
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 45px;
+    font-family: sans-serif;
+}
+p{
+    text-align: center;
+    font-size: 18px;
+    font-family: sans-serif;
+    text-transform: capitalize;
+}
+hr{
+    height: 100%;
+    width: 100%;
+}
+p1{
+    font-size: 16px;
+    font-family: sans-serif;
+    text-transform: capitalize;
+}
+.color img{
+    margin-left: 25%;
+    margin-top: 35px;
+}
+.color h1,h2{
+    text-align: center;
+    text-transform: capitalize;
+    height: 40px;
+}
+.color p{
+
+    font-size: 16px;
+    font-family: sans-serif;
+    text-transform: capitalize;
+}
+.color2 img{
+    margin-left: 25%;
+    margin-top: 35px;
+}
+.color2 h1 a{
+    text-align: center;
+    text-decoration: none;
+    text-transform: capitalize;
+    text-decoration: underline;
+}
+.color2 p{
+    font-size: 16px;
+    font-family: sans-serif;
+    text-transform: capitalize;
+}
+.color3,h2,h3,h4{
+    text-align: center;
+    height: 18px;
+}
